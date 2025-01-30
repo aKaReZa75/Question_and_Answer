@@ -55,24 +55,24 @@ git clone https://github.com/aKaReZa75/Question_and_Answer
 If you prefer not to use Git Bash or the command line, you can download the repository directly from GitHub as a ZIP file.  
 Follow these steps:  
 1. Navigate to the GitHub repository page and Locate the Code button:
-- On the main page of the repository, you will see a green Code button near the top right corner.
+   - On the main page of the repository, you will see a green Code button near the top right corner.
 
 2. Download the repository:
-- Click the Code button to open a dropdown menu.
-- Select Download ZIP from the menu.
+   - Click the Code button to open a dropdown menu.
+   - Select Download ZIP from the menu.
 
   ![Download Zip](Images/Step7.png)  
 
 3. Save the ZIP file:
-- Choose a location on your computer to save the ZIP file and click Save.
+   - Choose a location on your computer to save the ZIP file and click Save.
 
 4. Extract the ZIP file:
-- Navigate to the folder where you saved the ZIP file.
-- Right-click on the ZIP file and select Extract All... (Windows) or use your preferred extraction tool.
-- Choose a destination folder and extract the contents.
+   - Navigate to the folder where you saved the ZIP file.
+   - Right-click on the ZIP file and select Extract All... (Windows) or use your preferred extraction tool.
+   - Choose a destination folder and extract the contents.
 
 5. Access the repository:
-- Once extracted, you can access the repository files in the destination folder.
+   - Once extracted, you can access the repository files in the destination folder.
 
 > [!IMPORTANT]
 > - No Updates: Keep in mind that downloading the repository as a ZIP file does not allow you to receive updates.    
