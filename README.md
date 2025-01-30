@@ -39,6 +39,12 @@ git clone https://github.com/aKaReZa75/Question_and_Answer
 
 **Note:** Please keep in mind that the numbers displayed in the image might vary when you perform the same actions. This is because repositories are continuously being updated and expanded. Nevertheless, the overall process remains unchanged.
 
+# Videos  
+- [aKaReZa 10 - Q-A, How to Use a Breadboard](https://youtu.be/7HrpzfcJx-o)  
+  ---  
+  Learn how to work with a breadboard. This video demonstrates the process of working with a breadboard, covering everything from understanding its components to troubleshooting and assembling circuits effectively.
+
+
 # 📝 How to Ask Questions
 If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
 
