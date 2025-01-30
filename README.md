@@ -1,7 +1,7 @@
 # Question and Answer
-In this repository, your questions are answered. 
-If needed, separate videos are recorded to address your questions in detail. 
-Related files and video responses to your questions are included in this repository.
+In this repository, you can ask questions that don't fit into other categories or repositories. 
+I'll provide answers and, if necessary, record videos to address your questions in detail. 
+Related files for your questions will also be included here.
 
 # 💻 How to Use Git and GitHub
 
