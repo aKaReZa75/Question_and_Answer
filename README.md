@@ -1,11 +1,7 @@
-# Question_and_Answer
-
-[![](https://img.shields.io/badge/Q&A-How_to_use_a_breadboard-blue)](https://youtu.be/7HrpzfcJx-o)
-[![](https://img.shields.io/badge/Q&A-How_to_Calculate_Sin_Cos_Tan_with_Basic_Calculators-blue)](https://youtu.be/gmzgSpdCs48)
-[![](https://img.shields.io/badge/Q&A-A4_led_matrix_layout_Speedrun_with_Altium-blue)](https://youtu.be/iv362fgxC1E)
-[![](https://img.shields.io/badge/Q&A-The_best_way_to_manage_Electronics_Components_Inventory-blue)](https://youtu.be/F4Bge-_tUWE)
-[![](https://img.shields.io/badge/Q&A-Arduino_UNO_Auto_Reset_EN_Jumper-blue)](https://youtu.be/xZejI3MDGFw)
-[![](https://img.shields.io/badge/Q&A-How_to_use_a_perfBoard-blue)](https://youtu.be/qdKNEiFQEF8)
+# Question and Answer
+In this repository, your questions are answered. 
+If needed, separate videos are recorded to address your questions in detail. 
+Related files and video responses to your questions are included in this repository.
 
 # 💻 How to Use Git and GitHub
 
@@ -42,8 +38,28 @@ git clone https://github.com/aKaReZa75/Question_and_Answer
 # Videos  
 - [aKaReZa 10 - Q-A, How to Use a Breadboard](https://youtu.be/7HrpzfcJx-o)  
   ---  
-  Learn how to work with a breadboard. This video demonstrates the process of working with a breadboard, covering everything from understanding its components to troubleshooting and assembling circuits effectively.
+  In this video, learn how to use a breadboard, including using Fritzing software, placing components, and troubleshooting circuits.
 
+
+- [aKeZa 14 - Q-A, How to Calculate Sin-Cos-Tan with Basic Calculators](https://youtu.be/gmzgSpdCs48)  
+  ---  
+  In this video, learn how to calculate all trigonometric ratios for any given angle using a basic calculator.
+
+- [aKeZa 24 - Q-A, A4 LED Matrix Layout Speedrun with Altium](https://youtu.be/iv362fgxC1E)  
+  ---  
+  In this video, I answer a viewer's question about how to create an LED matrix using Altium Designer.
+
+- [aKeZa 29 - Q-A, The best way to manage Electronics Components Inventory](https://youtu.be/F4Bge-_tUWE)  
+  ---  
+  As seen in previous videos, I've used an inventory management software that many of you mistook for a component finder tool. Due to popular demand, this video demonstrates effective and efficient methods for managing electronic components inventory. You'll learn about the recommended software and how to properly label components and boxes.
+
+- [aKaReZa 34 - Q-A, Arduino UNO Auto Reset EN Jumper](https://youtu.be/xZejI3MDGFw)  
+  ---  
+  In this video, I answer a viewer's question about the jumper on the Arduino board, explaining its purpose, why it is present, and why it is shorted by the PCB itself.
+
+- [aKaReZa 80 - Q-A, How to use a PerfBoard](https://youtu.be/qdKNEiFQEF8)  
+  ---  
+  In this video, learn the scientific method to implement and test a circuit using a PerfBoard.
 
 # 📝 How to Ask Questions
 If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
