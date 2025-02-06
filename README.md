@@ -6,6 +6,18 @@ Related files for your questions will also be included here.
 > [!CAUTION]
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
+# 🔗 Resources
+  Here you'll find a collection of useful links and documents related to the Q&A section.    
+  These resources include datasheets, tutorials, and essential tools to get you started and guide you through.
+  
+> [!TIP]
+> The resources are detailed in the sections below.  
+> To access any of them, simply click on the corresponding blue link.
+
+- [Video PlayList](./Videos.md)
+  ---  
+  All educational videos related to this topic are available at this link.  
+
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
 1. **Using Git Bash and Cloning the Repository**
@@ -81,32 +93,6 @@ Follow these steps:
 > - No Updates: Keep in mind that downloading the repository as a ZIP file does not allow you to receive updates.    
 >   If the repository is updated, you will need to download it again manually.  
 > - Ease of Use: This method is simpler and suitable for users who are not comfortable with Git or command-line tools.
-
-# Videos  
-- [aKaReZa 10 - Q-A, How to Use a Breadboard](https://youtu.be/7HrpzfcJx-o)  
-  ---  
-  In this video, learn how to use a breadboard, including using Fritzing software, placing components, and troubleshooting circuits.
-
-
-- [aKeZa 14 - Q-A, How to Calculate Sin-Cos-Tan with Basic Calculators](https://youtu.be/gmzgSpdCs48)  
-  ---  
-  In this video, learn how to calculate all trigonometric ratios for any given angle using a basic calculator.
-
-- [aKeZa 24 - Q-A, A4 LED Matrix Layout Speedrun with Altium](https://youtu.be/iv362fgxC1E)  
-  ---  
-  In this video, I answer a viewer's question about how to create an LED matrix using Altium Designer.
-
-- [aKeZa 29 - Q-A, The best way to manage Electronics Components Inventory](https://youtu.be/F4Bge-_tUWE)  
-  ---  
-  As seen in previous videos, I've used an inventory management software that many of you mistook for a component finder tool. Due to popular demand, this video demonstrates effective and efficient methods for managing electronic components inventory. You'll learn about the recommended software and how to properly label components and boxes.
-
-- [aKaReZa 34 - Q-A, Arduino UNO Auto Reset EN Jumper](https://youtu.be/xZejI3MDGFw)  
-  ---  
-  In this video, I answer a viewer's question about the jumper on the Arduino board, explaining its purpose, why it is present, and why it is shorted by the PCB itself.
-
-- [aKaReZa 80 - Q-A, How to use a PerfBoard](https://youtu.be/qdKNEiFQEF8)  
-  ---  
-  In this video, learn the scientific method to implement and test a circuit using a PerfBoard.
 
 # 📝 How to Ask Questions
 If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
