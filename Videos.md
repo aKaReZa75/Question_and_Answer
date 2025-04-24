@@ -1,29 +1,115 @@
 # Videos  
 In this document, all videos related to the Q&A section are provided, along with a brief description of each video.
 
-- [aKaReZa 10 - Q-A, How to Use a Breadboard](https://youtu.be/7HrpzfcJx-o)  
-  ---  
-  In this video, learn how to use a breadboard, including using Fritzing software, placing components, and troubleshooting circuits.
+<table style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/7HrpzfcJx-o">aKaReZa 10 – Q-A, How to Use a Breadboard</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, learn how to use a breadboard, including using Fritzing software, placing components, and troubleshooting circuits.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/7HrpzfcJx-o">
+        <img src="https://img.youtube.com/vi/7HrpzfcJx-o/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 10 – Q-A, How to Use a Breadboard Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKeZa 14 - Q-A, How to Calculate Sin-Cos-Tan with Basic Calculators](https://youtu.be/gmzgSpdCs48)  
-  ---  
-  In this video, learn how to calculate all trigonometric ratios for any given angle using a basic calculator.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/gmzgSpdCs48">aKaReZa 14 – Q-A, How to Calculate Sin-Cos-Tan with Basic Calculators</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, learn how to calculate all trigonometric ratios for any given angle using a basic calculator.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/gmzgSpdCs48">
+        <img src="https://img.youtube.com/vi/gmzgSpdCs48/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 14 – Q-A, How to Calculate Sin-Cos-Tan with Basic Calculators Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKeZa 24 - Q-A, A4 LED Matrix Layout Speedrun with Altium](https://youtu.be/iv362fgxC1E)  
-  ---  
-  In this video, I answer a viewer's question about how to create an LED matrix using Altium Designer.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/iv362fgxC1E">aKaReZa 24 – Q-A, A4 LED Matrix Layout Speedrun with Altium</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, I answer a viewer's question about how to create an LED matrix using Altium Designer.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/iv362fgxC1E">
+        <img src="https://img.youtube.com/vi/iv362fgxC1E/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 24 – Q-A, A4 LED Matrix Layout Speedrun with Altium Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKeZa 29 - Q-A, The best way to manage Electronics Components Inventory](https://youtu.be/F4Bge-_tUWE)  
-  ---  
-  As seen in previous videos, I've used an inventory management software that many of you mistook for a component finder tool. Due to popular demand, this video demonstrates effective and efficient methods for managing electronic components inventory. You'll learn about the recommended software and how to properly label components and boxes.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/F4Bge-_tUWE">aKaReZa 29 – Q-A, The best way to manage Electronics Components Inventory</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        As seen in previous videos, I've used an inventory management software that many of you mistook for a component finder tool. Due to popular demand, this video demonstrates effective and efficient methods for managing electronic components inventory. You'll learn about the recommended software and how to properly label components and boxes.
+      </p>
+    </td>
+    <td width="360" valign="middle" style="padding: 0;">
+      <a href="https://youtu.be/F4Bge-_tUWE">
+        <img src="https://img.youtube.com/vi/F4Bge-_tUWE/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 29 – Q-A, The best way to manage Electronics Components Inventory Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKaReZa 34 - Q-A, Arduino UNO Auto Reset EN Jumper](https://youtu.be/xZejI3MDGFw)  
-  ---  
-  In this video, I answer a viewer's question about the jumper on the Arduino board, explaining its purpose, why it is present, and why it is shorted by the PCB itself.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/xZejI3MDGFw">aKaReZa 34 – Q-A, Arduino UNO Auto Reset EN Jumper</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, I answer a viewer's question about the jumper on the Arduino board, explaining its purpose, why it is present, and why it is shorted by the PCB itself.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/xZejI3MDGFw">
+        <img src="https://img.youtube.com/vi/xZejI3MDGFw/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 34 – Q-A, Arduino UNO Auto Reset EN Jumper Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKaReZa 80 - Q-A, How to use a PerfBoard](https://youtu.be/qdKNEiFQEF8)  
-  ---  
-  In this video, learn the scientific method to implement and test a circuit using a PerfBoard.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/qdKNEiFQEF8">aKaReZa 80 – Q-A, How to use a PerfBoard</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, learn the scientific method to implement and test a circuit using a PerfBoard.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/qdKNEiFQEF8">
+        <img src="https://img.youtube.com/vi/qdKNEiFQEF8/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 80 – Q-A, How to use a PerfBoard Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 🌟 Support Me
 If you found this repository useful:
