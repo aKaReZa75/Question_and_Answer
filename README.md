@@ -3,9 +3,6 @@ In this repository, you can ask questions that don't fit into other categories o
 I'll provide answers and, if necessary, record videos to address your questions in detail. 
 Related files for your questions will also be included here.
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 <table>
   <tr>
   <td valign="top">
@@ -24,7 +21,17 @@ Related files for your questions will also be included here.
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 # 🔗 Resources
