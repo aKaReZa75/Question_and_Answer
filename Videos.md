@@ -1,6 +1,43 @@
 # Videos  
 In this document, all videos related to the Q&A section are provided, along with a brief description of each video.
 
+```plaintext
+Q-A Series
+   ├── [aKaReZa 10 - How to use a Breadboard]
+   │    ├─ Tools — Intro to Fritzing software.
+   │    ├─ Connections — Breadboard wiring and component placement.
+   │    ├─ Implementation — Translating schematics to physical layout.
+   │    └─ Debugging — Troubleshooting and final testing.
+   │
+   ├── [aKaReZa 14 - Trigonometry with Basic Calculators]
+   │    ├─ Functions — Sin, Cos, Tan calculations.
+   │    ├─ Units — Degrees vs radians.
+   │    ├─ Taylor Series — Precision enhancement techniques.
+   │    └─ Calculator — Manual method optimization.
+   │
+   ├── [aKaReZa 24 - A4 LED Matrix Layout in Altium]
+   │    ├─ Design — New PCB file creation.
+   │    ├─ Components — LED/resistor placement.
+   │    ├─ Routing — Matrix connections and signal lines.
+   │    └─ Integration — Connectors and circuit linking.
+   │
+   ├── [aKaReZa 29 - Electronics Inventory Management]
+   │    ├─ Software — Inventory tool intro and features.
+   │    ├─ Labeling — Box/component organization.
+   │    ├─ Data — Backup, restore, stock tracking.
+   │    └─ Workflow — Orders, settings, adjustments.
+   │
+   ├── [aKaReZa 34 - Arduino Auto Reset EN Jumper]
+   │    └─ Board Insight — Purpose of default jumper short and design rationale.
+   │
+   └── [aKaReZa 80 - How to Use a PerfBoard]
+        ├─ Design — Schematic creation + PCB layout.
+        ├─ Placement — Breadboard implementation prep.
+        ├─ Soldering — Connection techniques and tips.
+        ├─ Routing — Component linking and optimization.
+        └─ Testing — Stage-by-stage validation.
+```
+
 <table style="border-collapse: collapse;">
   <tr>
     <td valign="top" style="padding: 0 10px;">
